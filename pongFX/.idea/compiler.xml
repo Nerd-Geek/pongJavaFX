@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="pongFX" />
+        <module name="juego" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="pongFX" target="11" />
+      <module name="juego" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

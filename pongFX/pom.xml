@@ -7,7 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>pongFX</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>pongFX</name>
+    <name>juego</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,6 +18,11 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
+            <version>11.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
             <version>11.0.2</version>
         </dependency>
 
@@ -55,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.pongfx/com.example.pongfx.App</mainClass>
+                            <mainClass>com.example.juego/com.example.pongFX.HelloApplication</mainClass>
                         </configuration>
                     </execution>
                 </executions>
