@@ -6,3 +6,4 @@ Mítico juego Retro del Pong que estaba antiguamente en la atari, esta realizado
 
 ### Autor 💖:
 - Carlos Moreno Luengos
+- Alba Rodríguez Merino
